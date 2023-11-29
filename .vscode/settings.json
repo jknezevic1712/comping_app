@@ -1,0 +1,6 @@
+{
+  "html-css-class-completion.CSSLanguages": ["css", "sass", "scss"],
+  "files.associations": {
+    "*.css": "css"
+  }
+}
